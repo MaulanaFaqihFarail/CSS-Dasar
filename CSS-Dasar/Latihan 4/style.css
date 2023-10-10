@@ -1,0 +1,10 @@
+h1 {
+    font-size: 100px;
+    color:red
+}
+p {
+    color:maroon
+}
+body { 
+    background: url(Bg.avif) black no-repeat top center ;
+}
